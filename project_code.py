@@ -1,7 +1,7 @@
 """
 Authors: Joshua Yap and Keagan Anderson
 This program manipulates PGA Tour data to produce relevant plots of driving performance
-using '2019_data' from data_files.
+using '2019_data.csv' from data_files.
 """
 
 import pandas as pd
